@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465484161066",
+    "project_id": "mps2pr8",
+    "storage_bucket": "mps2pr8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465484161066:android:055945df5ee63d48b3a353",
+        "android_client_info": {
+          "package_name": "com.example.mps2pr8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFR1W1yDZshGkjNmFLuEDZy1brH12xIFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
